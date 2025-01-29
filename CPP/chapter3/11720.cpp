@@ -13,7 +13,7 @@ int main(void){
 
     int sum = 0;
     for(int i=0; i< numbers.length();i++){
-        sum += stoi(numbers[i]);
+        sum += numbers[i] - '0';
     }
     
     cout << sum << "\n";
