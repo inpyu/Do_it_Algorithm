@@ -3,7 +3,8 @@
     "*.go": "go",
     "*.mod": "go",
     "xstring": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "functional": "cpp"
   },
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
